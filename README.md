@@ -6,4 +6,5 @@
 | :---:   | :---: | 
 | ep1_quizgame | [Quiz Game](https://www.github.com/gophercises/quiz)   | 
 | ep2_urlshortener | [URL Shortener](https://www.github.com/gophercises/urlshort) | 
+| ep3_adventure | [Create Own Adventure](https://github.com/gophercises/cyoa) |
 
